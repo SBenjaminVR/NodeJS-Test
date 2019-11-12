@@ -1,6 +1,6 @@
 
 function init() {
-    let url="/api/pets/byId?id=1";
+    let url ="/api/pets";
     let settings = {
         method: 'GET'
     }
